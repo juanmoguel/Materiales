@@ -12,7 +12,7 @@ Para solucionar todos estos problmas y facilitarnos el trabajo a la hora de prog
 
 **********
 
-### [En el editor de texto](https://github.com/juanmoguel/Introducci-n-a-Postcss/blob/master/EditorDeTexto.md)
+### [En el editor de texto](https://github.com/juanmoguel/Materiales/blob/patch-1/Talleres/Bienvenidos%20a%20Postcss/En%20un%20editor%20de%20texto.md)
 *************  
   
     
